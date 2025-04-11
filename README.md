@@ -1,4 +1,3 @@
-```markdown
 # Team Builder v2
 
 ## Overview
