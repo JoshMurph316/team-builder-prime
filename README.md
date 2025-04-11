@@ -1,5 +1,3 @@
-**team-builder** project:
-
 ```markdown
 # Team Builder v2
 
